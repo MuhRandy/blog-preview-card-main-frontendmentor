@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/MuhRandy/blog-preview-card-main-frontendmentor)
+- Live Site URL: [Github Pages](https://muhrandy.github.io/blog-preview-card-main-frontendmentor/)
 
 ## My process
 
@@ -73,7 +73,9 @@ article {
 }
 ```
 
-I also learn how to animate change when hovering and translate element. I am using transition to define the change while hovering element. Transition have four value in it, The first value on is what change do you want to transition, the second is the duration, the third is timing function, and the last one is delay. You can just put the first two value in it. In my case, I put three value. While translate allows me to change the position of element. You can put 3 value on translate, the first one is x-axis, the second one is y-axis, and the last one is z-axis. positif value move x-axis to right, y-axis to bottom, and z-axis to blur or up. You can put just one value if you want. This what my css looks like:
+I also learn how to animate change when hovering and translate element. I am using transition to define the change while hovering element. Transition have four value in it, The first value on is what change do you want to transition, the second is the duration, the third is timing function, and the last one is delay. You can just put the first two value in it. In my case, I put three value.
+
+While translate allows me to change the position of element. You can put 3 value on translate, the first one is x-axis, the second one is y-axis, and the last one is z-axis. positif value move x-axis to right, y-axis to bottom, and z-axis to blur or up. You can put just one value if you want. This what my css looks like:
 
 ```css
 /* blog card */
